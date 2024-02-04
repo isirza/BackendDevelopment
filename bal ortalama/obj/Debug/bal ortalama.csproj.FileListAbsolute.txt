@@ -1,0 +1,7 @@
+C:\backend\bal ortalama\bal ortalama\obj\Debug\bal ortalama.csproj.AssemblyReference.cache
+C:\backend\bal ortalama\bal ortalama\obj\Debug\bal ortalama.csproj.CoreCompileInputs.cache
+C:\backend\bal ortalama\bal ortalama\bin\Debug\bal ortalama.exe.config
+C:\backend\bal ortalama\bal ortalama\bin\Debug\bal ortalama.exe
+C:\backend\bal ortalama\bal ortalama\bin\Debug\bal ortalama.pdb
+C:\backend\bal ortalama\bal ortalama\obj\Debug\bal ortalama.exe
+C:\backend\bal ortalama\bal ortalama\obj\Debug\bal ortalama.pdb
