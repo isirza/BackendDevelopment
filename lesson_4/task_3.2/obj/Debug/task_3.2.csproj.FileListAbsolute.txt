@@ -1,0 +1,7 @@
+C:\backend\task_3.2\task_3.2\obj\Debug\task_3.2.csproj.AssemblyReference.cache
+C:\backend\task_3.2\task_3.2\obj\Debug\task_3.2.csproj.CoreCompileInputs.cache
+C:\backend\task_3.2\task_3.2\bin\Debug\task_3.2.exe.config
+C:\backend\task_3.2\task_3.2\bin\Debug\task_3.2.exe
+C:\backend\task_3.2\task_3.2\bin\Debug\task_3.2.pdb
+C:\backend\task_3.2\task_3.2\obj\Debug\task_3.2.exe
+C:\backend\task_3.2\task_3.2\obj\Debug\task_3.2.pdb
