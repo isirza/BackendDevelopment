@@ -1,0 +1,7 @@
+C:\backend\studentAPP\studentAPP\obj\Debug\studentAPP.csproj.AssemblyReference.cache
+C:\backend\studentAPP\studentAPP\obj\Debug\studentAPP.csproj.CoreCompileInputs.cache
+C:\backend\studentAPP\studentAPP\bin\Debug\studentAPP.exe.config
+C:\backend\studentAPP\studentAPP\bin\Debug\studentAPP.exe
+C:\backend\studentAPP\studentAPP\bin\Debug\studentAPP.pdb
+C:\backend\studentAPP\studentAPP\obj\Debug\studentAPP.exe
+C:\backend\studentAPP\studentAPP\obj\Debug\studentAPP.pdb
